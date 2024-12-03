@@ -553,7 +553,7 @@ main h2{
     }
 }
 
-@media screen and (min-width:400px) and (max-width: 430px){
+@media screen and (min-width:380px) and (max-width: 430px){
     header .barra{
         top: 0;
         width: 80%;
